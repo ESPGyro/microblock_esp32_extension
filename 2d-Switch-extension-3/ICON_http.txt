@@ -1,0 +1,2 @@
+light_switch ICON(128X128)
+https://www.flaticon.com/free-icon/light-switch_4370717
